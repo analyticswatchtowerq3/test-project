@@ -1,3 +1,3 @@
 # test-project
 
-Basic guidelines 
+Basic guidelines for the new repository
